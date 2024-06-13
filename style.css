@@ -255,12 +255,10 @@ display: inline;
 .fff{
    background-image: url("p4.jpg");
     margin-top: 40px;
-    margin-left: 80px;
     background-color: coral;
     
 
 }
-
 
 
 .p{
@@ -287,7 +285,7 @@ form{
 background-color: blueviolet;
 height: 400px;
 width: 500px;
-padding: 60px;
+padding: 50px;
 
 }
 .imgg_{
